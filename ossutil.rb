@@ -4,8 +4,8 @@
 class Ossutil< Formula
   desc "A user friendly command line tool to access AliCloud OSS."
   homepage "https://github.com/aliyun/ossutil"
-  url "https://gosspublic.alicdn.com/ossutil/1.7.14/ossutil64"
-  sha256 "d43bc2a26c9d6b923cf7f703b807fb043274e61ef3150601a361a74a2c81fad9"
+  url "https://gosspublic.alicdn.com/ossutil/1.7.14/ossutilmac64"
+  sha256 "cb68ba0c01c23a52ab09e93a864be31563596bbc5b647c9fb4a23d5ac9568656"
 
   # depends_on "cmake" => :build
 
