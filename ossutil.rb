@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class OssUtil< Formula
+class Ossutil< Formula
   desc "A user friendly command line tool to access AliCloud OSS."
   homepage "https://github.com/aliyun/ossutil"
   url "https://gosspublic.alicdn.com/ossutil/1.7.14/ossutil64"
