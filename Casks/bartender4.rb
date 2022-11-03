@@ -5,5 +5,5 @@ cask "bartender4" do
   url "https://zhaopengme-generic.pkg.coding.net/macapps/public/Bartender4.dmg"
   name "bartender4"
 
-  app "bartender4.app"
+  app "Bartender 4.app"
 end
