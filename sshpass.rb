@@ -1,5 +1,5 @@
 class Sshpass < Formula
-  desc "https://github.com/dora38/sshpass"
+  desc "sshpass with TOTP support"
   homepage "https://github.com/dora38/sshpass"
   version "1.09"
 
