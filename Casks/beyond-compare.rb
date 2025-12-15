@@ -1,9 +1,11 @@
 cask "beyond-compare" do
   version "0.0.1"
-  sha256 :no_check # required as upstream package is updated in-place
+  sha256 :no_check
 
   url "https://zhaopengme-generic.pkg.coding.net/macapps/public/Beyond-Compare.dmg"
-  name "beyond-compare"
+  name "Beyond Compare"
+  desc "File and folder comparison tool"
+  homepage "https://www.scootersoftware.com/"
 
-  app "beyond-compare.app"
+  app "Beyond Compare.app"
 end
