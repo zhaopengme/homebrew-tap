@@ -134,3 +134,4 @@ brew install zhaopengme/tap/cce
 # 安装 GUI 应用
 brew install --cask zhaopengme/tap/beyond-compare
 brew install --cask zhaopengme/tap/360chrome
+brew install --cask zhaopengme/tap/nosqlbooster-for-mongodb
