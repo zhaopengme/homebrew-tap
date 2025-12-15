@@ -125,13 +125,13 @@ shasum -a 256 /path/to/file
 - 建议为每个软件填写完整的 `sha256`，避免使用 `:no_check`
 
 
-# 添加 tap
-brew tap zhaopengme/tap
-
+```bash
 # 安装 CLI 工具
 brew install zhaopengme/tap/cce
 
 # 安装 GUI 应用
+brew install --cask zhaopengme/tap/command-x
 brew install --cask zhaopengme/tap/beyond-compare
 brew install --cask zhaopengme/tap/360chrome
 brew install --cask zhaopengme/tap/nosqlbooster-for-mongodb
+```
