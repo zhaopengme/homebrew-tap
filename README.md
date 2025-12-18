@@ -128,6 +128,7 @@ shasum -a 256 /path/to/file
 ```bash
 # 安装 CLI 工具
 brew install zhaopengme/tap/cce
+brew install zhaopengme/tap/sshpass
 
 # 安装 GUI 应用
 brew install --cask zhaopengme/tap/command-x
